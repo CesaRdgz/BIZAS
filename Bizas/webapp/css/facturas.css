@@ -1,0 +1,23 @@
+#logo{
+    display: inline-block;
+    position: relative;
+    width: 75px;
+    height: 75px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: #33b5e5 3px solid;
+}
+
+#white{
+    height: 100px;
+}
+
+#graficas1{
+    text-decoration:none;
+    color: gray;
+}
+
+#graficas2{
+    text-decoration:none;
+    color: gray;
+}

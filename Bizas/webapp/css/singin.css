@@ -1,0 +1,22 @@
+.container {
+  max-width: 960px;
+}
+
+#logo{
+  display: inline-block;
+  position: relative;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: #33b5e5 3px solid;
+
+}
+
+#footer{
+  height: 50px;
+}
+
+#parrafo{
+  font-size: 10px;
+}
