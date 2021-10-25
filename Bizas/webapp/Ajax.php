@@ -23,7 +23,6 @@ if(isset($_REQUEST["term"])){
                 while($row = $result->fetch_array(MYSQLI_ASSOC)){
                    $nombre = $row["nombre"];
                    $apellido = $row["apellido"];
-
                     setcookie("nombre", $nombre);
                     setcookie("apellido", $apellido);
 
